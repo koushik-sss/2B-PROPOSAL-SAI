@@ -31,3 +31,5 @@ Videos of our togggling LED
 
 There's one more! But I've linked it here since GitHub limits uploads to 10 MB for embedding GIFs in a markdown file.
 https://github.com/koushik-sss/2B-PROPOSAL-SAI/blob/main/serial.gif
+
+Please refer to the folder in this repo for the code.
