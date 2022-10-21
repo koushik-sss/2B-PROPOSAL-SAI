@@ -25,6 +25,9 @@ The proximity value is sensed and categorized into three groups:low, medium and 
 ## LED REPL TOGGLE
 
 Videos of our togggling LED
- ![ledblink](https://user-images.githubusercontent.com/64246696/197108644-3f5336f7-2aad-4ed7-8835-b02c7e67e4f2.gif)
+
+![ledblink](https://user-images.githubusercontent.com/64246696/197108644-3f5336f7-2aad-4ed7-8835-b02c7e67e4f2.gif)
+
 
 There's one more! But I've linked it here since GitHub limits uploads to 10 MB for embedding GIFs in a markdown file.
+https://github.com/koushik-sss/2B-PROPOSAL-SAI/blob/main/serial.gif
